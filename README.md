@@ -12,7 +12,7 @@ What is ILoveYouCoins?
 
 ILoveYouCoins is a lite version of Bitcoin  based on Litecoin using scrypt as a proof-of-work algorithm.
 - Coin Sufix: ILY 
-- Algorítimo: Scrypt PoW
+- Algorithm: Scrypt PoW
 - PoW Period: 6,65 Years
 - Coins per Block:  ILY 
 - Total of Coins will mined: 7 Billion~
